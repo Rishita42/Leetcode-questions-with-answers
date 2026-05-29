@@ -2,7 +2,7 @@
 
 Consistent problem solving. Strong fundamentals. Scalable thinking.
 
-This repository documents my journey of solving algorithmic problems on LeetCode, with a focus on building deep expertise in Data Structures, Algorithms, and problem-solving patterns required for top-tier software engineering roles.
+This repository documents my journey of solving algorithmic problems on LeetCode, with a focus on building deep expertise in Data Structures, Algorithms, and problem-solving patterns required for top-tier software engineering roles. Play with codes.
 
 🧠 What This Repository Represents
 📌 Systematic practice of DSA concepts
