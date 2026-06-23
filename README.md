@@ -11,6 +11,6 @@ This repository documents my journey of solving algorithmic problems on LeetCode
 🧩 Coverage of real interview-level questions
 📈 Continuous improvement and consistency
 🛠️ Tech Stack
-Primary Language: Python 🐍
+Primary Language: Python, C++ 🐍
 Concepts Covered:
 Arrays | Strings | Hashing | Recursion | Backtracking | Trees | Graphs | Dynamic Programming | Greedy | Sliding Window | Binary Search
